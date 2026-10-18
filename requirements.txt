@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pytest
+black
+ruff
+dvc[azure]
+mlflow
+scikit-learn
+pandas
+numpy
+joblib
