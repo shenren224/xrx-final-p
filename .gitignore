@@ -10,7 +10,6 @@ __pycache__/
 
 # DVC缓存
 .dvc/cache/
-*.dvc
 
 # 日志
 *.log
@@ -21,3 +20,4 @@ __pycache__/
 
 # 本地环境变量
 .env
+/data
