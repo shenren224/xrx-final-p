@@ -21,3 +21,4 @@ __pycache__/
 # 本地环境变量
 .env
 /data
+/model
